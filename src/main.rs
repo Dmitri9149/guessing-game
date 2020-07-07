@@ -28,6 +28,7 @@ fn main() {
             Ordering::Equal => {
                 println!("You win!");
                 break
+            }
         }
     }
 
